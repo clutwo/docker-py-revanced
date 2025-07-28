@@ -1,1 +1,190 @@
-{}
+{
+    "youtube_music": {
+        "app_version": "8.29.56..82956240",
+        "patches_version": "v5.32.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1753699922034,
+        "date_patched": "2025-07-28 10:52:02.034227+05:30",
+        "app_dump": {
+            "app_name": "youtube_music",
+            "app_version": "8.29.56..82956240",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/revanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "4eeec796a57f0e707a5795c86756f2315aaa82d9964ae3d3f92d40e28ae1fb16.rvp",
+                    "version": "v5.32.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "4eeec796a57f0e707a5795c86756f2315aaa82d9964ae3d3f92d40e28ae1fb16.rvp",
+                    "version": "v5.32.0"
+                }
+            ],
+            "no_of_patches": 10,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube_music.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=10136115&key=f18c1a60659b54dd5966ced0528efdaa695ab095&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "reddit": {
+        "app_version": "2024.17.0",
+        "patches_version": "v5.32.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1753699913998,
+        "date_patched": "2025-07-28 10:51:53.998010+05:30",
+        "app_dump": {
+            "app_name": "reddit",
+            "app_version": "2024.17.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/revanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "4eeec796a57f0e707a5795c86756f2315aaa82d9964ae3d3f92d40e28ae1fb16.rvp",
+                    "version": "v5.32.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "4eeec796a57f0e707a5795c86756f2315aaa82d9964ae3d3f92d40e28ae1fb16.rvp",
+                    "version": "v5.32.0"
+                }
+            ],
+            "no_of_patches": 4,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "reddit.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6131308&key=45f1ac90456c0c99196d086ac0b195669c0d3e42&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/redditinc/reddit/",
+            "package_name": "com.reddit.frontpage",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "twitter": {
+        "app_version": "11.9.0.release.0..311090000",
+        "patches_version": "v5.32.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1753699988687,
+        "date_patched": "2025-07-28 10:53:08.687443+05:30",
+        "app_dump": {
+            "app_name": "twitter",
+            "app_version": "11.9.0.release.0..311090000",
+            "experiment": true,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/revanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "4eeec796a57f0e707a5795c86756f2315aaa82d9964ae3d3f92d40e28ae1fb16.rvp",
+                    "version": "v5.32.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "4eeec796a57f0e707a5795c86756f2315aaa82d9964ae3d3f92d40e28ae1fb16.rvp",
+                    "version": "v5.32.0"
+                }
+            ],
+            "no_of_patches": 8,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "twitter.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=10092626&key=cb2ec9bb30c72731582758099f3efd2dac3b29b0",
+            "download_source": "https://www.apkmirror.com/apk/x-corp/twitter/",
+            "package_name": "com.twitter.android",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "youtube": {
+        "app_version": "20.13.41",
+        "patches_version": "v5.32.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1753699995766,
+        "date_patched": "2025-07-28 10:53:15.766341+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "20.13.41",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/revanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "4eeec796a57f0e707a5795c86756f2315aaa82d9964ae3d3f92d40e28ae1fb16.rvp",
+                    "version": "v5.32.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "4eeec796a57f0e707a5795c86756f2315aaa82d9964ae3d3f92d40e28ae1fb16.rvp",
+                    "version": "v5.32.0"
+                }
+            ],
+            "no_of_patches": 57,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8979329&key=55f2d61c4cb742ea6c3665eec292f91381f9688a&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    }
+}
